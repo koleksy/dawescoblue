@@ -1,1 +1,4 @@
+baseURL = 'https://dawesco.blue'
+languageCode = 'en-US'
+title = 'Dawes County Democrats'
 theme = 'hugo-winston-theme'

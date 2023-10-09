@@ -1,6 +1,16 @@
 {
   "links": [
     {
+      "name": "facebook",
+      "url": "https://facebook.com/dawesco.blue",
+      "image": "images/social/facebook.svg"
+    },
+    {
+      "name": "instagram",
+      "url": "https://instagram.com/dawesco.blue",
+      "image": "images/social/instagram.svg"
+    },
+    {
       "name": "twitter",
       "url": "https://twitter.com/dawesco.blue",
       "image": "images/social/twitter.svg"

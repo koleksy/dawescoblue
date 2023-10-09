@@ -2,40 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dawesco.blue/tags/lorem/</loc>
-    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dawesco.blue/tags/</loc>
-    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dawesco.blue/posts/language-perfect/</loc>
-    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dawesco.blue/tags/writing/</loc>
-    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+    <loc>https://dawesco.blue/posts/</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dawesco.blue/</loc>
-    <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dawesco.blue/posts/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dawesco.blue/posts/sanity-not-statistical/</loc>
     <lastmod>2018-12-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dawesco.blue/posts/destruction-of-words/</loc>
-    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dawesco.blue/tags/time/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dawesco.blue/posts/controls-the-past/</loc>
-    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dawesco.blue/pages/about/</loc>
   </url><url>
     <loc>https://dawesco.blue/categories/</loc>
   </url><url>
     <loc>https://dawesco.blue/pages/</loc>
+  </url><url>
+    <loc>https://dawesco.blue/tags/</loc>
   </url>
 </urlset>

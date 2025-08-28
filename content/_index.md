@@ -3,8 +3,6 @@ title: Dawes County Democrats Online
 description: DawesDems.Online is the home of the Dawes County Democratic Party
 ---
 
-![DawesCoDems Logo](/images/DawesCoDems.png)
-
 There are indeed Democrats in Dawes County, Nebraska. Chadron, Crawford, 
 and even Whitney!
 

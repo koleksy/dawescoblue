@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "DawesCo.blue"
+title = "DawesDems.online"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -15,7 +15,7 @@ pygmentsUseClasses = true
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@Dawesco.blue"
+  twitter_handle = ""
   showAuthorOnHomepage = false
   showAuthorOnPosts = false
   showIntroContentOnHomepage = true

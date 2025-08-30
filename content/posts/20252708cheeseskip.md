@@ -11,7 +11,7 @@ Senator Deb Fischer recently made several stops in western Nebraska including a 
 While the “One Big Beautiful Bill” doesn’t directly target Head Start funding, it guts the infrastructure that makes Head Start possible for thousands of Nebraska families. Here’s how:
 
 - **Medicaid Cuts:** Nebraska stands to lose $6.5 billion in federal Medicaid funding over the next decade. That’s 30,000 fewer Nebraskans covered annually. Since 1 in 3 children under age 6 in Nebraska are on Medicaid, this threatens access to health care for Head Start kids.
-- **SNAP Reductions:* The bill slashes $322 million from food assistance programs, affecting 64,000 children statewide. Hunger doesn’t just hurt—it hinders learning, growth, and development.
+- **SNAP Reductions:** The bill slashes $322 million from food assistance programs, affecting 64,000 children statewide. Hunger doesn’t just hurt—it hinders learning, growth, and development.
 - **Ripple Effect on Services:** Rural hospitals and clinics are already struggling. Funding losses mean fewer local health screenings and developmental services—many of which are coordinated with Head Start.
 
 Head Start isn’t just preschool. It’s a lifeline. It’s health screenings, nutrition, family support, and early education rolled into one. When programs like Medicaid and SNAP are gutted, Head Start staff are forced to fill the gaps—without additional resources.
